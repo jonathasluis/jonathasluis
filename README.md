@@ -1,8 +1,10 @@
+<body backgroundColor = "red">
 # Olá, me chamo Jonathas ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 🎓 Estudante de Ciência da Computação na Universidade Federal de Lavras 
 - 🚜 Estágiario na ScadiAgro como desenvolvedor
+- 👨‍💻 Técnico em Informatica pelo SENAI-MG
 
 ### Linguagens de Programação
 
@@ -42,3 +44,4 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathasluis&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathasluis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+</body>
