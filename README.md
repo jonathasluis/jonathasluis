@@ -1,4 +1,4 @@
-<body backgroundColor = "red">
+
 # Olá, me chamo Jonathas ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
