@@ -35,7 +35,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=jonathasluis&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathasluis&show_icons=true&theme=transparent&count_private=true&layout=compact&langs_count=10&hide=blade"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathasluis&show_icons=true&theme=transparent&count_private=true&layout=compact&langs_count=10&hide=blade,css,html,Makefile,ANTLR,Shell,scss"/>
 </a>
 
 
