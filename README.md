@@ -3,7 +3,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 🎓 Estudante de Ciência da Computação na Universidade Federal de Lavras 
-- 🚜 Estágiario na ScadiAgro como desenvolvedor
+- 🚜 Desenvolvedor Junior na SCADIAgro
 - 👨‍💻 Técnico em Informatica pelo SENAI-MG
 
 ### Linguagens de Programação
