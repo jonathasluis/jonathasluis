@@ -1,5 +1,5 @@
 
-# Olá, me chamo Jonathas ! 
+# Olá, me chamo Jonathas !  
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 🎓 Estudante de Ciência da Computação na Universidade Federal de Lavras 
