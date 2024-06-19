@@ -34,9 +34,9 @@
 </div>     
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!--<a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="top" src="https://github-readme-stats.vercel.app/api?username=jonathasluis&show_icons=true&theme=github_dark&bg_color=00000000&include_all_commits=true&count_private=true&rank_icon=github"/>
-</a>
+</a>-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathasluis&show_icons=true&theme=github_dark&bg_color=00000000&count_private=true&layout=donut-vertical&langs_count=20&hide=blade,css,html,Makefile,ANTLR,Shell,scss,jupyter%20notebook,Smarty,Dockerfile"/>
 </a>
