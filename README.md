@@ -2,7 +2,7 @@
 # Olá, me chamo Jonathas ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 🎓 Estudante de Ciência da Computação na Universidade Federal de Lavras 
+- 🎓 Bacharel em Ciência da Computação pela Universidade Federal de Lavras 
 - 👨‍💻 Técnico em Informatica pelo SENAI-MG
 
 ### Linguagens de Programação
